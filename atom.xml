@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sxy&#39;s Bolg</title>
+  
+  <subtitle>生活、技术分享</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-12-09T13:17:32.813Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Sxy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2017/12/09/new%202/"/>
+    <id>http://yoursite.com/2017/12/09/new 2/</id>
+    <published>2017-12-09T13:17:32.720Z</published>
+    <updated>2017-12-09T13:17:32.813Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello hexo</title>
+    <link href="http://yoursite.com/2017/12/09/hello-hexo/"/>
+    <id>http://yoursite.com/2017/12/09/hello-hexo/</id>
+    <published>2017-12-09T06:10:52.496Z</published>
+    <updated>2017-12-09T06:11:36.945Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
