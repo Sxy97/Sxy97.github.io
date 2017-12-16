@@ -3,57 +3,26 @@
 
 
     
-    
-    
-    
   <url>
-    <loc>http://sxy97.cn/2017/12/10/new%201/</loc>
-    <lastmod>2017-12-10T13:27:12.868Z</lastmod>
+    <loc>http://sxy97.cn/2017/12/16/first/</loc>
+    <lastmod>2017-12-16T16:05:58.323Z</lastmod>
     <data>
         <display>
-        <title>测试文章3</title>
-        <pubTime>2017-12-10T09:41:22.000Z</pubTime>
+        <title>第一个个人博客</title>
+        <pubTime>2017-12-16T13:14:25.000Z</pubTime>
         
+        <tag>随笔</tag>
+         
          
            
              
-              <breadCrumb title="java" url="http://sxy97.cn/categories/java/"/>
+              <breadCrumb title="随笔" url="http://sxy97.cn/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
     </url>
 
     
-  <url>
-    <loc>http://sxy97.cn/2017/12/09/hello-hexo/</loc>
-    <lastmod>2017-12-10T13:27:09.009Z</lastmod>
-    <data>
-        <display>
-        <title>Hello hexo</title>
-        <pubTime>2017-12-09T06:10:52.496Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
-  <url>
-    <loc>http://sxy97.cn/2017/12/10/new%202/</loc>
-    <lastmod>2017-12-10T13:15:08.061Z</lastmod>
-    <data>
-        <display>
-        <title>测试文章2</title>
-        <pubTime>2017-12-10T09:41:22.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="node.js" url="http://sxy97.cn/categories/node-js/"/>
-          
-        </display>
-    </data>
-    </url>
-
+    
 </urlset>

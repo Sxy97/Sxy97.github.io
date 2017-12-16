@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sxy97.cn/2017/12/16/first/</loc>
+    
+    <lastmod>2017-12-16T16:05:58.323Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://sxy97.cn/tags/index.html</loc>
     
     <lastmod>2017-12-16T11:59:12.738Z</lastmod>
@@ -19,27 +26,6 @@
     <loc>http://sxy97.cn/about/index.html</loc>
     
     <lastmod>2017-12-10T13:50:19.237Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://sxy97.cn/2017/12/10/new%201/</loc>
-    
-    <lastmod>2017-12-10T13:27:12.868Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://sxy97.cn/2017/12/09/hello-hexo/</loc>
-    
-    <lastmod>2017-12-10T13:27:09.009Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://sxy97.cn/2017/12/10/new%202/</loc>
-    
-    <lastmod>2017-12-10T13:15:08.061Z</lastmod>
     
   </url>
   
