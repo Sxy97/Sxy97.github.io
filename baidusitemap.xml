@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/12/10/new%201/</loc>
+    <lastmod>2017-12-10T13:27:12.868Z</lastmod>
+    <data>
+        <display>
+        <title>测试文章3</title>
+        <pubTime>2017-12-10T09:41:22.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="java" url="http://yoursite.com/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/12/09/hello-hexo/</loc>
+    <lastmod>2017-12-10T13:27:09.009Z</lastmod>
+    <data>
+        <display>
+        <title>Hello hexo</title>
+        <pubTime>2017-12-09T06:10:52.496Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/12/10/new%202/</loc>
+    <lastmod>2017-12-10T13:15:08.061Z</lastmod>
+    <data>
+        <display>
+        <title>测试文章2</title>
+        <pubTime>2017-12-10T09:41:22.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="node.js" url="http://yoursite.com/categories/node-js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
